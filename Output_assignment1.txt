@@ -1,0 +1,16 @@
+Menu:
+1. insert element
+2. Delete element
+3. Print 
+4. Exit
+Enter your choice: 1
+Enter the element to insert: 4
+Element 4 inserted successfully.
+
+Menu:
+1. insert element
+2. Delete element
+3. Print 
+4. Exit
+Enter your choice: 3
+Queue elements: 4 
