@@ -63,6 +63,9 @@ int main() {
         return 0;
     }
 
+     printf("Eight queens can placed in the follwoing way:\n");
     printSolution();
+    printf("\n");
+    printf("-------------[Queens are represented by 1]----------------\n");
     return 0;
 }
