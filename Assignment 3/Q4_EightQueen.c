@@ -1,5 +1,3 @@
-// eight_queens.c
-
 #include <stdio.h>
 #include <stdbool.h>
 
