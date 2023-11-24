@@ -62,13 +62,11 @@ void dijkstra(int graph[V][V], int src) {
             }  
     }
 
-    // print the constructed distance array
+   
     printSolution(dist, V, parent);
 }
-
-// driver program to test the above function
 int main() {
-    /* Let us create the example graph discussed above */
+    
     int graph[V][V] = {{0, 2, 0, 6, 0},
                        {2, 0, 3, 8, 5},
                        {0, 3, 0, 0, 7},
